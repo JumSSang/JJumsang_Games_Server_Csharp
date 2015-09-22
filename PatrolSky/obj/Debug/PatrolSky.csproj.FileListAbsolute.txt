@@ -1,0 +1,9 @@
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\bin\Debug\PatrolSky.exe.config
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\bin\Debug\PatrolSky.exe
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\bin\Debug\PatrolSky.pdb
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\obj\Debug\PatrolSky.csprojResolveAssemblyReference.cache
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\obj\Debug\PatrolSky.Properties.Resources.resources
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\obj\Debug\PatrolSky.csproj.GenerateResource.Cache
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\obj\Debug\PatrolSky.exe
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\obj\Debug\PatrolSky.pdb
+c:\users\경민\documents\visual studio 2013\Projects\PatrolSky\PatrolSky\obj\Debug\PatrolSky.Form1.resources
